@@ -1,4 +1,4 @@
-# flashchat_flutter
+# Worldchat_flutter
 
 World chat made using flutter
 
